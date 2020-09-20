@@ -1,4 +1,4 @@
-### Eunji Choi
+# Eunji Choi
 ## Hello everyone who visits my Github 👋
 
 
@@ -8,7 +8,7 @@
 <br>
 
 ## School 🤹‍♀️
--(11.03-16.02) Dankook university - Economics, Bachelor
+-(11.03-16.02) Dankook university - Economics, Bachelor <br>
 -(19.09- ) Seneca college - Computer programming
 
 ## Activities 😄
