@@ -1,4 +1,27 @@
-### Hi there 👋
+### Eunji Choi
+## Hello everyone who visits my Github 👋
+
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chldmswnl12@gmail.com)](mailto:chldmswnl12@gmail.com)
+
+<br>
+
+## School 🤹‍♀️
+-(11.03-16.02) Dankook university - Economics, Bachelor
+-(19.09- ) Seneca college - Computer programming
+
+## Activities 😄
+
+- Volve marketing award - Third place
+- KT&G marketing award - Second place
+- KT&G Volunteer activity 
+- club of economics 
+
+## Interest 👀
+- Drinking coffee
+- Watching a movie
+- Being productive
 
 <!--
 **chldmswnl/chldmswnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
