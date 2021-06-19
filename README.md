@@ -1,12 +1,16 @@
 # Eunji Choi 👩‍💻
 
-### (Future) Junior front-end web developer
+### Junior front-end web developer
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chldmswnl12@gmail.com)](mailto:chldmswnl12@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/eunji-choi-3a5b34127/)
 
 ## School 🤹‍♀️
--(19.09- ) Seneca college - Computer programming <br>
+-(19.09-21.05 ) Seneca college - Computer programming <br>
 -(11.03-16.02) Dankook university - Economics, Bachelor 
+
+## Job 👩‍💻
+
+-(21.05- ) Front-end developer in Korea
 
 ## Tech 💻
 
