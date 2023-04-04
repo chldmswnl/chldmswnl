@@ -1,6 +1,6 @@
 # Eunji Choi 👩‍💻
 
-### Junior front-end web developer
+### Front-end web developer
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chldmswnl12@gmail.com)](mailto:chldmswnl12@gmail.com)
 
 ## Job 👩‍💻
@@ -22,8 +22,6 @@
 
 <div display=flex>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
 
 
