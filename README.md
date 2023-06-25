@@ -1,11 +1,7 @@
 # Eunji Choi 👩‍💻
 
-### Front-end web developer
+### Front-end developer
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chldmswnl12@gmail.com)](mailto:chldmswnl12@gmail.com)
-
-## Job 👩‍💻
-
--(21.05- ) Front-end developer in Korea
 
 ## Tech 💻
 
