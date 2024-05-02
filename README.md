@@ -19,6 +19,8 @@
 <img alt="AWS" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
+## Recent post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=앤지)](https://velog-readme-stats.vercel.app/api/redirect?name=앤지)
 
 <!--
 **chldmswnl/chldmswnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
